@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on inovation companies
 - 📫 How to reach me @lucasrodrigues117
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I read one book a month
 
 <!---
