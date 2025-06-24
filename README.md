@@ -1,52 +1,46 @@
-# Welcome!
+# Welcome to my GitHub! 👋
 
- 
+## I'm Lucas Rodrigues 🚀
 
-## I'm Lucas Rodrigues!
+💻 **Back-End Developer**  
+🏠 **From:** Brazil 🇧🇷  
+📚 **Currently Learning:** Java ☕  
+🎯 **2025 Goals:** Create my own company and develop my projects 🚀  
 
- 
+---
 
-:computer: I'm Back-End Developer!
+## 🚀 About Me
 
-:house_with_garden: I’m from Brazil.
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white&link=https://github.com/lucasrodrigues117)](https://github.com/lucasrodrigues117)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=LINK_LINKEDIN)](LINK_LINKEDIN)
 
-:books: I’m currently learning Java.
+---
 
-:outbox_tray: 2025 Goals: Create my own company and develop my projects.
+## 🛠️ Skills & Technologies
 
- 
+<img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
+<img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
+<img height="25" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">  
+<img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
+<img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
 
-## About me
+<!-- Adicione mais badges conforme você for aprendendo -->
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+## 📈 GitHub Stats
 
-- Thanks for visiting.
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasrodrigues117&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrodrigues117&layout=compact&theme=radical" />
+</p>
 
-- Enjoy it!! o/
+---
 
-----------------------------------------------------------------------------------
+## ✨ Badges
 
-*OBS onde está escrito em maiúsculo você deve escrever suas informações:
+✨ Você pode pegar outros badges aqui: [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)  
+✨ É só copiar a URL da imagem e colocar assim:
 
-Lucas Rodrigues.
-
-https://github.com/lucasrodrigues117.
-
-💾Aqui está alguns itens que você pode adicionar ao seu arquivo README para torná-lo mais atraente:
-
-Emblemas.
-Para obter emblemas acesse o link abaixo:
-
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-
--  Agora escolha a imagem qual você gostaria de usar e copie a sua URl.
-
--  Assim você deve criar uma tag por exemplo: img <img src="BadgeURLHere"
-
-*OBS Já deixei uma pronta abaixo.
-
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-
--  Agora basta copiar para seu README e a mágica acontece.
+```html
+<img height="25" src="URL_DO_BADGE_AQUI">
