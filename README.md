@@ -18,13 +18,21 @@
 
 ## 🛠️ Skills & Technologies
 
-<img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
-<img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
-<img height="25" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">  
-<img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
-<img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>  
 
-<!-- Adicione mais badges conforme você for aprendendo -->
+---
+
+## 📋 Project Management
+
+I have experience in project management and collaboration using:
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050038" height="25"/>
 
 ---
 
@@ -39,8 +47,8 @@
 
 ## ✨ Badges
 
-✨ Você pode pegar outros badges aqui: [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)  
-✨ É só copiar a URL da imagem e colocar assim:
+✨ You can find more badges here: [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)  
+✨ Just copy the badge URL and add it like this:
 
 ```html
 <img height="25" src="URL_DO_BADGE_AQUI">
